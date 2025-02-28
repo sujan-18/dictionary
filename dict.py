@@ -7,3 +7,4 @@ print(student_details)
 student_details1=dict(name="sujan", college="lbef", Degree="BSCIT", Age=21)
 print(student_details1)
 
+print(student_details["name"])
